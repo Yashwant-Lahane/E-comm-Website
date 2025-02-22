@@ -17,4 +17,4 @@
 
 ## Authors
 
-@Amatya Tandale
+@Yashwant Lahane
